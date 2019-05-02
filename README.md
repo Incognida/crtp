@@ -1,0 +1,1 @@
+implementation of Curious Recurring Template Pattern (CRTP) in Go
